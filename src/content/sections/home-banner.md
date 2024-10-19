@@ -1,7 +1,7 @@
 ---
 # Banner Section
-title: "Elevate Your Business with CloudPeak"
-description: "Empowering Your Success with Cutting-Edge SaaS Solutions Built for Scalability, Efficiency, and Growth."
+title: "E & R Unlimited"
+description: "Where quality and innovation matter.."
 notification: "New version available. [Download now!](contact)"
 buttons:
   - enable: true
